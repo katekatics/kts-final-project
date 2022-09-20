@@ -1,0 +1,6 @@
+aiohttp==3.8.1
+alembic==1.8.1
+asyncpg==0.26.0
+marshmallow==3.17.1
+PyYAML==6.0
+sqlalchemy==1.4.41

@@ -1,0 +1,9 @@
+database:
+  host: 0.0.0.0
+  port: 5432
+  user: postgres
+  password: fz76ahsa3
+  database: miracle_field
+bot:
+  token: token
+  group_id: 1
